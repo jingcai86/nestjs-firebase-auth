@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/tfarras/nestjs-firebase-auth#readme",
   "peerDependencies": {
-    "@nestjs/common": "^7.6.15",
+    "@nestjs/common": "^8.0.0",
     "@types/passport-jwt": "^3.0.5",
     "firebase-admin": "^9.6.0",
     "passport": "^0.4.1",
